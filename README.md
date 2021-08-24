@@ -1,3 +1,5 @@
+<img src="./images/topo.jpg"/>
+
 # Contos Infantis - RNN
 
 > Repositório do projeto Contos Infantis - RNN (CIs-RNN)
@@ -5,28 +7,19 @@
 
 ## Motivação
 
-Scraping ou raspagem web é uma técnica que automatiza a coleta de dados em um site ou aplicativo web..
-
-Você pode ler artigos sobre Scraping no Medium:
-
-* Dá uma olhadinha lá: [https://medium.com/@andcordeiro](https://medium.com/@andcordeiro)
+Neste projeto (em andamento) extraí de diferentes sites diversos contos infantis e treinei uma Rede Neural Recorrente usando LSTM para poder gerar infinitos novos textos parecidos com os textos originais coletados. 
+Você pode conferir os resultados iniciais no site do projeto clicando aqui: * [Site Contos-RNN](http://contos-rnn-web.herokuapp.com/) (tá com dificuldades de acesso? manda uma mensagem pra mim? :D)
 
 
-## Como praticar?
-
-Você pode reproduzir os exemplos na sua máquina ou utilizando alguma ferramenta online, como o [Google Colab](https://colab.research.google.com/) 
+Neste repositório você encontra os arquivos do modelo, o dataset e também os arquivos da aplicação web :D
 
 
-## Curtiu? Entre em contato
+## Quer colaborar? Que tal me mandar uma mensagem:
 
 Anderson Cordeiro
 * [Github](https://github.com/andersoncordeiro)
-* [LinkedIn](https://www.linkedin.com/in/anderson-cordeiro-26986430/)
-* [Medium](https://medium.com/@andcordeiro)
+* [LinkedIn](https://www.linkedin.com/in/andercordeiro/)
 
 
 
 É isso! =)
-
-## License
-This project could be used by anyone! MIT License
